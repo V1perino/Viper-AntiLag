@@ -7,7 +7,7 @@ ORIGINAL RESOURCE: https://forum.cfx.re/t/release-standalone-2-step-als-anti-lag
 ADD THIS ITEM IN OX_INVENTORY
 
 	['carpc'] = {
-		label = 'Počítač do vozidla',
+		label = 'Vehicle computer',
 		stack = false,
 		description = 'This computer boost your engine as fuck!',
 	},
