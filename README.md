@@ -1,6 +1,8 @@
 # Viper-AntiLag
 Extreme exhausts on item
 
+VIDEO: https://streamable.com/r6mi9g
+
 
 ORIGINAL RESOURCE: https://forum.cfx.re/t/release-standalone-2-step-als-anti-lag-system/1057327?page=10
 
